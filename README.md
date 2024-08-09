@@ -1,4 +1,23 @@
-### My project
+### 我的信息
+
+- 网名：苏晓晴、雨中情兰
+- 姓名：王雨晴
+- 年龄：24岁
+- 性别：女
+- 职业：公务员
+- 学历：本科(毕业于[广西大学](https://baike.baidu.com/item/%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6/215907))
+
+### 联系方式
+
+- QQ：3074193836
+- Wechat：Sakura_reo0
+
+### 技能点
+
+- 后端：Python·PHP·Nodejs
+- 前端：Vuejs·Nuxt·React
+
+### 我的项目
 
 - 🎵 [无损解析Netease](https://github.com/Suxiaoqinx/Netease_url)
 - 😄 [个人博客Blog](https://www.toubiec.cn)
