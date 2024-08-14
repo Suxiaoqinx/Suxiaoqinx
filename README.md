@@ -21,10 +21,11 @@
 - 🐍 Python 开发
 - 🐝 WEB 开发
 - 👻 二次元
-- 🎮 游戏宅
+- 🎮 游戏宅 (Steam & PC)
 
 ### Github Stats
 
 <a href="https://github.com/Suxiaoqinx"><img src="https://github-readme-stats.vercel.app/api?username=Suxiaoqinx&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;">
+<br>
 
 —— 保持谦虚、努力，相信会有好运的一天❤
