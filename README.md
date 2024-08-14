@@ -9,6 +9,7 @@
 
 - QQ：3074193836
 - Wechat：Sakura_reo0
+- Blog: [www.toubiec.cn](https://www.toubiec.cn)
 
 ### 我的兴趣/技术栈
 
