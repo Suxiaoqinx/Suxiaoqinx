@@ -2,7 +2,7 @@
 
 - 网名：苏晓晴、雨中情兰
 - 姓名：王雨晴
-- 年龄：24岁
+- 年龄：25岁
 - 性别：女
 
 ### 联系方式
@@ -10,16 +10,24 @@
 - QQ：3074193836
 - Wechat：Sakura_reo0
 
-### 技能点
+### 技术栈
 
-- 后端：Python·PHP·Nodejs
-- 前端：Vuejs·Nuxt·React
+<div>
+    <img alt="Python" src="https://img.shields.io/badge/Python-%232b5b84?logo=python&logoColor=white">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2334495e?logo=vue.js">
+    <img alt="Golang" src="https://img.shields.io/badge/Golang-%23f0f8ff?logo=go">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23f0f8ff?logo=php">
+</div>
 
-### 我的项目
+### 我的兴趣/技术栈
 
-- 🎵 [无损解析Netease](https://github.com/Suxiaoqinx/Netease_url)
-- 😄 [个人博客Blog](https://www.toubiec.cn)
+- 🐍 Python 开发
+- 🐝 WEB 开发
+- 👻 二次元
+- 🎮 游戏宅
 
 ### Github Stats
 
 <a href="https://github.com/Suxiaoqinx"><img src="https://github-readme-stats.vercel.app/api?username=Suxiaoqinx&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;">
+
+—— 保持谦虚、努力，相信会有好运的一天❤
