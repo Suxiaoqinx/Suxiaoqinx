@@ -24,6 +24,10 @@
 - 👻 二次元
 - 🎮 游戏宅 (Steam & PC)
 
+### 工作环境
+![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows11&logoColor=ffffff)
+![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+
 ### Github Stats
 
 <a href="https://github.com/Suxiaoqinx"><img src="https://github-readme-stats.vercel.app/api?username=Suxiaoqinx&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;">
