@@ -12,19 +12,14 @@
 - Blog: [www.toubiec.cn](https://www.toubiec.cn)
 
 ### 我的兴趣/技术栈
-
-<div>
-    <img alt="Python" src="https://img.shields.io/badge/Python-%232b5b84?logo=python&logoColor=white">
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2334495e?logo=vue.js">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23f0f8ff?logo=php">
-</div>
+![Python](https://img.shields.io/badge/Python-%232b5b84?logo=python&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2334495e?logo=vue.js)
 
 - 🐍 Python 开发
 - 🐝 WEB 开发
 - 👻 二次元
 - 🎮 游戏宅 (Steam & PC)
 
-### 工作环境
+### 常用系统
 ![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows11&logoColor=ffffff)
 ![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 
