@@ -21,7 +21,7 @@
 
 ### 常用系统
 ![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows11&logoColor=ffffff)
-![Android](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Android](https://img.shields.io/badge/Android%2015-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 
 ### Github Stats
 
