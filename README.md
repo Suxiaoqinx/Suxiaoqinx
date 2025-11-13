@@ -33,6 +33,7 @@
 - 🐙 **GitHub**：[github.com/Suxiaoqinx](https://github.com/Suxiaoqinx)
 - 🌐 **个人站点/Blog**：[www.toubiec.cn](https://www.toubiec.cn)
 - 📱 **Wechat**：[Sakura_re0]
+- 🐧 **QQ**：[3074193836]
 
 > 💬 *欢迎聊技术、聊架构、聊开源 欢迎一切。*
 
