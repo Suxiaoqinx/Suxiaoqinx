@@ -1,31 +1,56 @@
-### 我的信息
+# Hi there, I'm [Suxiaoqinx] 👋
+---
+
+### 关于我 | About Me
 
 - 网名：苏晓晴、雨中情兰
 - 姓名：王雨晴
-- 年龄：26岁
+- 年龄：27岁
 - 性别：女
-> ❤ 数据真真假假 你又能分辨哪些是真 哪些是假吗？❤
-### 联系方式
+---
 
-- QQ：3074193836
-- Wechat：Sakura_re0
-- Blog: [www.toubiec.cn](https://www.toubiec.cn)
+### 🧩 编程语言
+- `TypeScript` / `JavaScript` / `Python`
 
-### 我的兴趣/技术栈
-![Python](https://img.shields.io/badge/Python-%232b5b84?logo=python&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2334495e?logo=vue.js)
+### ⚙️ 后端 & 基础设施
+- **运行时/框架**：`Node.js` / `Express` / `FastAPI` / `NestJS`
+- **数据库**：`PostgreSQL` / `Redis` / `MongoDB` / `MySQL`
+- **DevOps**：`Linux` / `Nginx` / `Grafana` / `Prometheus`
 
-- 🐍 Python 开发
-- 🐝 WEB 开发
-- 👻 二次元
-- 🎮 游戏宅 (Steam & PC)
+### 🖥️ 前端
+- **框架**：`React` / `Vue` / `Next.js`
 
-### 常用系统
-![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows11&logoColor=ffffff)
-![Android](https://img.shields.io/badge/Android%2015-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+### 🧪 其它技能
+- **调试 & 性能**：`Chrome DevTools` / `Burp Suite`
 
-### Github Stats
+> 🧪 *技术栈不求全，但求钻透；工具只是手段，问题才是核心。*
 
-<a href="https://github.com/Suxiaoqinx"><img src="https://github-readme-stats.vercel.app/api?username=Suxiaoqinx&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;">
-<br>
+---
 
-—— 保持谦虚、努力，相信会有好运的一天❤
+## 📫 联系方式 / Reach Me
+
+- 📧 **邮箱**：[3074193836@qq.com](mailto:3074193836@qq.com)
+- 🐙 **GitHub**：[github.com/Suxiaoqinx](https://github.com/Suxiaoqinx)
+- 🌐 **个人站点/Blog**：[www.toubiec.cn](https://www.toubiec.cn)
+- 📱 **Wechat**：[Sakura_re0]
+
+> 💬 *欢迎聊技术、聊架构、聊开源 欢迎一切。*
+
+---
+
+## 🛠️ 开源 & 项目
+
+- [🔗 网易云无损解析](https://github.com/Suxiaoqinx/Netease_url)
+- [🔗 QQ音乐无损解析](https://github.com/Suxiaoqinx/qqmusic_flac)
+
+> 🧪 *每一个项目都是一场技术实验。Code speaks louder than words.*
+
+---
+
+## 💡 座右铭 / Motto
+
+> 💡 *"As Linus Torvalds said, 'Talk is cheap. Show me the code.' —— 开源不仅是技术革命，更是人类协作精神的终极浪漫。"*
+
+---
+
+🔥 *Always learning. Always building.* ⚡
