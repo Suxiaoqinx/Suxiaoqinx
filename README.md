@@ -13,7 +13,7 @@
 - `TypeScript` / `JavaScript` / `Python`
 
 ### ⚙️ 后端 & 基础设施
-- **运行时/框架**：`Node.js` / `Express` / `FastAPI` / `NestJS`
+- **运行框架**：`Node.js` / `Express` / `FastAPI` / `NestJS`
 - **数据库**：`PostgreSQL` / `Redis` / `MongoDB` / `MySQL`
 - **DevOps**：`Linux` / `Nginx` / `Grafana` / `Prometheus`
 
