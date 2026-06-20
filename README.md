@@ -1,56 +1,34 @@
----
+<h3 align="center">👋 Hi there, This is Suxiaoqinx 👋</h3>
 
-### 关于我 | About Me
+<h5 align="center">
+  <a href="https://www.toubiec.cn/">HomePage</a> 
+</h5>
 
-- 网名：苏晓晴、雨中情兰
-- 姓名：王雨晴
-- 年龄：27岁
-- 性别：女
----
-
-### 🧩 编程语言
-- `TypeScript` / `JavaScript` / `Python`
-
-### ⚙️ 后端 & 基础设施
-- **运行框架**：`Node.js` / `Express` / `FastAPI` / `NestJS`
-- **数据库**：`PostgreSQL` / `Redis` / `MongoDB` / `MySQL`
-- **DevOps**：`Linux` / `Nginx` / `Grafana` / `Prometheus`
-
-### 🖥️ 前端
-- **框架**：`React` / `Vue` / `Next.js`
-
-### 🧪 其它技能
-- **调试 & 性能**：`Chrome DevTools` / `Burp Suite`
-
-> 🧪 *技术栈不求全，但求钻透；工具只是手段，问题才是核心。*
-
----
-
-## 📫 联系方式 / Reach Me
-
-- 📧 **邮箱**：[3074193836@qq.com](mailto:3074193836@qq.com)
-- 🐙 **GitHub**：[github.com/Suxiaoqinx](https://github.com/Suxiaoqinx)
-- 🌐 **个人站点/Blog**：[www.toubiec.cn](https://www.toubiec.cn)
-- 📱 **Wechat**：[Sakura_re0]
-- 🐧 **QQ**：[3074193836]
-
-> 💬 *欢迎聊技术、聊架构、聊开源 欢迎一切。*
-
----
-
-## 🛠️ 开源 & 项目
-
-- [🔗 网易云无损解析](https://github.com/Suxiaoqinx/Netease_url)
-- [🔗 QQ音乐无损解析](https://github.com/Suxiaoqinx/qqmusic_flac)
-
-> 🧪 *每一个项目都是一场技术实验。Code speaks louder than words.*
-
----
-
-## 💡 座右铭 / Motto
-
-> 💡 *"As Linus Torvalds said, 'Talk is cheap. Show me the code.' —— 开源不仅是技术革命，更是人类协作精神的终极浪漫。"*
-
----
-
-🔥 *Always learning. Always building.* ⚡
+<table width="100%" align="center">
+  <tr>
+    <td>
+      <a href="https://#gh-light-mode-only">
+        <img
+          src="https://github-readme-stats-one-bice.vercel.app/api?username=Suxiaoqinx&show_icons=true&hide_border=true&bg_color=00000000&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+          height="200" />
+      </a>
+      <a href="https://#gh-dark-mode-only">
+        <img
+          src="https://github-readme-stats-one-bice.vercel.app/api?username=Suxiaoqinx&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+          height="200" />
+      </a>
+    </td>
+    <td>
+      <a href="https://#gh-light-mode-only">
+        <img
+          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Suxiaoqinx&hide_border=true&layout=compact&langs_count=6&bg_color=00000000"
+          height="200" />
+      </a>
+      <a href="https://#gh-dark-mode-only">
+        <img
+          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Suxiaoqinx&hide_border=true&layout=compact&langs_count=6&bg_color=00000000&theme=dark"
+          height="200" />
+      </a>
+    </td>
+  </tr>
+</table>
